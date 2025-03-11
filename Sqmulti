@@ -1,0 +1,15 @@
+a=int(input("enter a 1st number "))
+
+b=int(input("enter a 2nd number "))
+
+print("Vikas, 24")
+
+print("the sum of 2 number is ,a+b)
+
+print("the product of 2 number is ",a*b)
+
+print("the subtract if 2 number is ",a-b)
+
+print("the division of ",a/b)
+
+print("the sq multiplication is ",a**b)
